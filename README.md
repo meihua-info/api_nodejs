@@ -1,5 +1,7 @@
 ###明道Node.js 版本的SDK，包含了用户鉴权和几个常用的API调用
 
+[![Join the chat at https://gitter.im/mingdaocom/api_nodejs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mingdaocom/api_nodejs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 此项目可用Webstorm 开发环境打开，依赖的module都进行了声明，在此目录下运行npm 安装即可  
 ```
 npm install
